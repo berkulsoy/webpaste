@@ -1,5 +1,5 @@
 # Web Paste
-Simple http server that lets you post any file and later get it via an easy to remember name (provided by [golang-petname](github.com/dustinkirkland/golang-petname))
+Simple http server that lets you post any file and later get it via an easy to remember name (provided by [golang-petname](https://github.com/dustinkirkland/golang-petname)).
 
 ## How
 
